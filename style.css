@@ -1,5 +1,11 @@
-background-color: rgba(241, 236, 196, 1);
-background-image: linear-gradient(180deg, rgba(255, 232, 142, 1) 0%, rgba(172, 141, 43, 1) 50%, rgba(28, 25, 14, 1) 100%),  url();
-background-size: auto;
-background-position: left top;
-background-repeat: repeat;
+body {
+  background-color: rgba(241, 236, 196, 1);
+  background-image: linear-gradient(180deg, rgba(255, 232, 142, 1) 0%, rgba(172, 141, 43, 1) 50%, rgba(28, 25, 14, 1) 100%),  url();
+  background-size: auto;
+  background-position: left top;
+  background-repeat: repeat;
+
+}
+
+
+text-shadow: 4px 8px 0px rgba(148, 149, 165, 1);
